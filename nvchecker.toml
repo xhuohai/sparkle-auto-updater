@@ -1,0 +1,11 @@
+[__config__]
+oldver = "nvchecker_oldver.json"
+# keyfile = "nvchecker_keyfile.json"
+newver = "nvchecker_newver.json"
+
+[sparkle-bin]
+source = "github"
+github = "xishang0128/sparkle"
+use_latest_release = true
+# 或者使用正则表达式匹配 tag
+# use_max_tag = true

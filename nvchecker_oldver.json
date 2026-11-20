@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "data": {
+    "sparkle-bin": {
+      "version": "1.26.10",
+      "gitref": "refs/tags/1.26.10",
+      "url": "https://github.com/xishang0128/sparkle/releases/tag/1.26.10",
+      "creation_time": "2026-10-31T10:20:47Z"
+    }
+  }
+}
